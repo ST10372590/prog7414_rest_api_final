@@ -1,21 +1,19 @@
-# Use official .NET SDK image to build the app
 FROM mcr.microsoft.com/dotnet/sdk:9.0-preview AS build
 WORKDIR /app
 
-# Copy csproj and restore as distinct layers
-COPY *.csproj ./
-RUN dotnet restore
+# Copy csproj and restore from Universe folder
+COPY Universe/*.csproj ./UniVerse/
+RUN dotnet restore UniVerse/UniVersecsproj
 
-# Copy everything else and build
+# Copy everything else
 COPY . ./
-RUN dotnet publish -c Release -o out
 
-# Build runtime image
+RUN dotnet publish UniVerse/UniVerse.csproj -c Release -o out
+
 FROM mcr.microsoft.com/dotnet/aspnet:7.0
 WORKDIR /app
-COPY --from=build /app/out .
+COPY --from=build /app/out ./
 
-# Expose port for API
 EXPOSE 5000
 ENV ASPNETCORE_URLS=http://+:5000
 

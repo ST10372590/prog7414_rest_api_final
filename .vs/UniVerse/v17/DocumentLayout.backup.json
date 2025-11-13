@@ -1,0 +1,567 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lab_services_student\\source\\repos\\UniVerse\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD4C729B-529B-4ED6-BED8-957F49ECBED8}|UniVerse\\UniVerse.csproj|c:\\users\\lab_services_student\\source\\repos\\universe\\universe\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD4C729B-529B-4ED6-BED8-957F49ECBED8}|UniVerse\\UniVerse.csproj|solutionrelative:universe\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD4C729B-529B-4ED6-BED8-957F49ECBED8}|UniVerse\\UniVerse.csproj|c:\\users\\lab_services_student\\source\\repos\\universe\\universe\\models\\requests\\devicetokenrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD4C729B-529B-4ED6-BED8-957F49ECBED8}|UniVerse\\UniVerse.csproj|solutionrelative:universe\\models\\requests\\devicetokenrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD4C729B-529B-4ED6-BED8-957F49ECBED8}|UniVerse\\UniVerse.csproj|c:\\users\\lab_services_student\\source\\repos\\universe\\universe\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD4C729B-529B-4ED6-BED8-957F49ECBED8}|UniVerse\\UniVerse.csproj|solutionrelative:universe\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD4C729B-529B-4ED6-BED8-957F49ECBED8}|UniVerse\\UniVerse.csproj|c:\\users\\lab_services_student\\source\\repos\\universe\\universe\\models\\entities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD4C729B-529B-4ED6-BED8-957F49ECBED8}|UniVerse\\UniVerse.csproj|solutionrelative:universe\\models\\entities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD4C729B-529B-4ED6-BED8-957F49ECBED8}|UniVerse\\UniVerse.csproj|c:\\users\\lab_services_student\\source\\repos\\universe\\universe\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD4C729B-529B-4ED6-BED8-957F49ECBED8}|UniVerse\\UniVerse.csproj|solutionrelative:universe\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD4C729B-529B-4ED6-BED8-957F49ECBED8}|UniVerse\\UniVerse.csproj|c:\\users\\lab_services_student\\source\\repos\\universe\\universe\\controllers\\messagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD4C729B-529B-4ED6-BED8-957F49ECBED8}|UniVerse\\UniVerse.csproj|solutionrelative:universe\\controllers\\messagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD4C729B-529B-4ED6-BED8-957F49ECBED8}|UniVerse\\UniVerse.csproj|c:\\users\\lab_services_student\\source\\repos\\universe\\universe\\controllers\\announcementscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD4C729B-529B-4ED6-BED8-957F49ECBED8}|UniVerse\\UniVerse.csproj|solutionrelative:universe\\controllers\\announcementscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD4C729B-529B-4ED6-BED8-957F49ECBED8}|UniVerse\\UniVerse.csproj|c:\\users\\lab_services_student\\source\\repos\\universe\\universe\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD4C729B-529B-4ED6-BED8-957F49ECBED8}|UniVerse\\UniVerse.csproj|solutionrelative:universe\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD4C729B-529B-4ED6-BED8-957F49ECBED8}|UniVerse\\UniVerse.csproj|c:\\users\\lab_services_student\\source\\repos\\universe\\universe\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BD4C729B-529B-4ED6-BED8-957F49ECBED8}|UniVerse\\UniVerse.csproj|solutionrelative:universe\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD4C729B-529B-4ED6-BED8-957F49ECBED8}|UniVerse\\UniVerse.csproj|c:\\users\\lab_services_student\\source\\repos\\universe\\universe\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BD4C729B-529B-4ED6-BED8-957F49ECBED8}|UniVerse\\UniVerse.csproj|solutionrelative:universe\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD4C729B-529B-4ED6-BED8-957F49ECBED8}|UniVerse\\UniVerse.csproj|c:\\users\\lab_services_student\\source\\repos\\universe\\universe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD4C729B-529B-4ED6-BED8-957F49ECBED8}|UniVerse\\UniVerse.csproj|solutionrelative:universe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD4C729B-529B-4ED6-BED8-957F49ECBED8}|UniVerse\\UniVerse.csproj|c:\\users\\lab_services_student\\source\\repos\\universe\\universe\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BD4C729B-529B-4ED6-BED8-957F49ECBED8}|UniVerse\\UniVerse.csproj|solutionrelative:universe\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD4C729B-529B-4ED6-BED8-957F49ECBED8}|UniVerse\\UniVerse.csproj|c:\\users\\lab_services_student\\source\\repos\\universe\\universe\\controllers\\submissionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD4C729B-529B-4ED6-BED8-957F49ECBED8}|UniVerse\\UniVerse.csproj|solutionrelative:universe\\controllers\\submissionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD4C729B-529B-4ED6-BED8-957F49ECBED8}|UniVerse\\UniVerse.csproj|c:\\users\\lab_services_student\\source\\repos\\universe\\universe\\controllers\\settingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD4C729B-529B-4ED6-BED8-957F49ECBED8}|UniVerse\\UniVerse.csproj|solutionrelative:universe\\controllers\\settingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD4C729B-529B-4ED6-BED8-957F49ECBED8}|UniVerse\\UniVerse.csproj|c:\\users\\lab_services_student\\source\\repos\\universe\\universe\\models\\dtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD4C729B-529B-4ED6-BED8-957F49ECBED8}|UniVerse\\UniVerse.csproj|solutionrelative:universe\\models\\dtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD4C729B-529B-4ED6-BED8-957F49ECBED8}|UniVerse\\UniVerse.csproj|c:\\users\\lab_services_student\\source\\repos\\universe\\universe\\controllers\\assessmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD4C729B-529B-4ED6-BED8-957F49ECBED8}|UniVerse\\UniVerse.csproj|solutionrelative:universe\\controllers\\assessmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD4C729B-529B-4ED6-BED8-957F49ECBED8}|UniVerse\\UniVerse.csproj|c:\\users\\lab_services_student\\source\\repos\\universe\\universe\\universe.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BD4C729B-529B-4ED6-BED8-957F49ECBED8}|UniVerse\\UniVerse.csproj|solutionrelative:universe\\universe.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD4C729B-529B-4ED6-BED8-957F49ECBED8}|UniVerse\\UniVerse.csproj|c:\\users\\lab_services_student\\source\\repos\\universe\\universe\\controllers\\modulescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD4C729B-529B-4ED6-BED8-957F49ECBED8}|UniVerse\\UniVerse.csproj|solutionrelative:universe\\controllers\\modulescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD4C729B-529B-4ED6-BED8-957F49ECBED8}|UniVerse\\UniVerse.csproj|c:\\users\\lab_services_student\\source\\repos\\universe\\universe\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD4C729B-529B-4ED6-BED8-957F49ECBED8}|UniVerse\\UniVerse.csproj|solutionrelative:universe\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD4C729B-529B-4ED6-BED8-957F49ECBED8}|UniVerse\\UniVerse.csproj|c:\\users\\lab_services_student\\source\\repos\\universe\\universe\\controllers\\gamificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD4C729B-529B-4ED6-BED8-957F49ECBED8}|UniVerse\\UniVerse.csproj|solutionrelative:universe\\controllers\\gamificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD4C729B-529B-4ED6-BED8-957F49ECBED8}|UniVerse\\UniVerse.csproj|c:\\users\\lab_services_student\\source\\repos\\universe\\universe\\controllers\\filescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD4C729B-529B-4ED6-BED8-957F49ECBED8}|UniVerse\\UniVerse.csproj|solutionrelative:universe\\controllers\\filescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD4C729B-529B-4ED6-BED8-957F49ECBED8}|UniVerse\\UniVerse.csproj|c:\\users\\lab_services_student\\source\\repos\\universe\\universe\\controllers\\groupdiscussionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD4C729B-529B-4ED6-BED8-957F49ECBED8}|UniVerse\\UniVerse.csproj|solutionrelative:universe\\controllers\\groupdiscussionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD4C729B-529B-4ED6-BED8-957F49ECBED8}|UniVerse\\UniVerse.csproj|c:\\users\\lab_services_student\\source\\repos\\universe\\universe\\controllers\\notificationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD4C729B-529B-4ED6-BED8-957F49ECBED8}|UniVerse\\UniVerse.csproj|solutionrelative:universe\\controllers\\notificationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD4C729B-529B-4ED6-BED8-957F49ECBED8}|UniVerse\\UniVerse.csproj|c:\\users\\lab_services_student\\source\\repos\\universe\\universe\\controllers\\schedulescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD4C729B-529B-4ED6-BED8-957F49ECBED8}|UniVerse\\UniVerse.csproj|solutionrelative:universe\\controllers\\schedulescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD4C729B-529B-4ED6-BED8-957F49ECBED8}|UniVerse\\UniVerse.csproj|c:\\users\\lab_services_student\\source\\repos\\universe\\universe\\controllers\\progresscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD4C729B-529B-4ED6-BED8-957F49ECBED8}|UniVerse\\UniVerse.csproj|solutionrelative:universe\\controllers\\progresscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD4C729B-529B-4ED6-BED8-957F49ECBED8}|UniVerse\\UniVerse.csproj|c:\\users\\lab_services_student\\source\\repos\\universe\\universe\\controllers\\calendarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD4C729B-529B-4ED6-BED8-957F49ECBED8}|UniVerse\\UniVerse.csproj|solutionrelative:universe\\controllers\\calendarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD4C729B-529B-4ED6-BED8-957F49ECBED8}|UniVerse\\UniVerse.csproj|c:\\users\\lab_services_student\\source\\repos\\universe\\universe\\migrations\\20251001214905_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD4C729B-529B-4ED6-BED8-957F49ECBED8}|UniVerse\\UniVerse.csproj|solutionrelative:universe\\migrations\\20251001214905_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD4C729B-529B-4ED6-BED8-957F49ECBED8}|UniVerse\\UniVerse.csproj|c:\\users\\lab_services_student\\source\\repos\\universe\\universe\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD4C729B-529B-4ED6-BED8-957F49ECBED8}|UniVerse\\UniVerse.csproj|solutionrelative:universe\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD4C729B-529B-4ED6-BED8-957F49ECBED8}|UniVerse\\UniVerse.csproj|c:\\users\\lab_services_student\\source\\repos\\universe\\universe\\migrations\\20251004161208_courseseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD4C729B-529B-4ED6-BED8-957F49ECBED8}|UniVerse\\UniVerse.csproj|solutionrelative:universe\\migrations\\20251004161208_courseseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD4C729B-529B-4ED6-BED8-957F49ECBED8}|UniVerse\\UniVerse.csproj|c:\\users\\lab_services_student\\source\\repos\\universe\\universe\\migrations\\20251004140649_usercourses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD4C729B-529B-4ED6-BED8-957F49ECBED8}|UniVerse\\UniVerse.csproj|solutionrelative:universe\\migrations\\20251004140649_usercourses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD4C729B-529B-4ED6-BED8-957F49ECBED8}|UniVerse\\UniVerse.csproj|c:\\users\\lab_services_student\\source\\repos\\universe\\universe\\migrations\\20251004132822_seedextendeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD4C729B-529B-4ED6-BED8-957F49ECBED8}|UniVerse\\UniVerse.csproj|solutionrelative:universe\\migrations\\20251004132822_seedextendeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lab_services_student\\source\\repos\\UniVerse\\UniVerse\\Migrations\\20251005020036_DataAddition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UniVerse\\Migrations\\20251005020036_DataAddition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lab_services_student\\source\\repos\\UniVerse\\UniVerse\\Migrations\\20251004161035_SeedingData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UniVerse\\Migrations\\20251004161035_SeedingData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD4C729B-529B-4ED6-BED8-957F49ECBED8}|UniVerse\\UniVerse.csproj|c:\\users\\lab_services_student\\source\\repos\\universe\\universe\\migrations\\20251006053534_addusersettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD4C729B-529B-4ED6-BED8-957F49ECBED8}|UniVerse\\UniVerse.csproj|solutionrelative:universe\\migrations\\20251006053534_addusersettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DeviceTokenRequest.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\UniVerse\\UniVerse\\Models\\Requests\\DeviceTokenRequest.cs",
+              "RelativeDocumentMoniker": "UniVerse\\Models\\Requests\\DeviceTokenRequest.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\UniVerse\\UniVerse\\Models\\Requests\\DeviceTokenRequest.cs",
+              "RelativeToolTip": "UniVerse\\Models\\Requests\\DeviceTokenRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T14:44:12.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\UniVerse\\UniVerse\\docker-compose.yml",
+              "RelativeDocumentMoniker": "UniVerse\\docker-compose.yml",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\UniVerse\\UniVerse\\docker-compose.yml",
+              "RelativeToolTip": "UniVerse\\docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-10-01T21:58:01.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\UniVerse\\UniVerse\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "UniVerse\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\UniVerse\\UniVerse\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "UniVerse\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAAAJkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T20:01:59.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Entities.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\UniVerse\\UniVerse\\Models\\Entities.cs",
+              "RelativeDocumentMoniker": "UniVerse\\Models\\Entities.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\UniVerse\\UniVerse\\Models\\Entities.cs",
+              "RelativeToolTip": "UniVerse\\Models\\Entities.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAABQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T20:03:12.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AnnouncementsController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\UniVerse\\UniVerse\\Controllers\\AnnouncementsController.cs",
+              "RelativeDocumentMoniker": "UniVerse\\Controllers\\AnnouncementsController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\UniVerse\\UniVerse\\Controllers\\AnnouncementsController.cs",
+              "RelativeToolTip": "UniVerse\\Controllers\\AnnouncementsController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T20:11:03.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "authController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\UniVerse\\UniVerse\\Controllers\\authController.cs",
+              "RelativeDocumentMoniker": "UniVerse\\Controllers\\authController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\UniVerse\\UniVerse\\Controllers\\authController.cs",
+              "RelativeToolTip": "UniVerse\\Controllers\\authController.cs",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAkwJgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T20:07:57.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\UniVerse\\UniVerse\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "UniVerse\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\UniVerse\\UniVerse\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "UniVerse\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAJgAAAAAAAAAAAAAAK8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T20:59:21.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\UniVerse\\UniVerse\\Dockerfile",
+              "RelativeDocumentMoniker": "UniVerse\\Dockerfile",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\UniVerse\\UniVerse\\Dockerfile",
+              "RelativeToolTip": "UniVerse\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-01T21:57:09.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\UniVerse\\UniVerse\\Services\\JwtService.cs",
+              "RelativeDocumentMoniker": "UniVerse\\Services\\JwtService.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\UniVerse\\UniVerse\\Services\\JwtService.cs",
+              "RelativeToolTip": "UniVerse\\Services\\JwtService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T20:04:39.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MessagesController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\UniVerse\\UniVerse\\Controllers\\MessagesController.cs",
+              "RelativeDocumentMoniker": "UniVerse\\Controllers\\MessagesController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\UniVerse\\UniVerse\\Controllers\\MessagesController.cs",
+              "RelativeToolTip": "UniVerse\\Controllers\\MessagesController.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAgwGwAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T21:01:33.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\UniVerse\\UniVerse\\appsettings.json",
+              "RelativeDocumentMoniker": "UniVerse\\appsettings.json",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\UniVerse\\UniVerse\\appsettings.json",
+              "RelativeToolTip": "UniVerse\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-01T20:38:42.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SettingsController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\UniVerse\\UniVerse\\Controllers\\SettingsController.cs",
+              "RelativeDocumentMoniker": "UniVerse\\Controllers\\SettingsController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\UniVerse\\UniVerse\\Controllers\\SettingsController.cs",
+              "RelativeToolTip": "UniVerse\\Controllers\\SettingsController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAswHoAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T05:38:32.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\UniVerse\\UniVerse\\Program.cs",
+              "RelativeDocumentMoniker": "UniVerse\\Program.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\UniVerse\\UniVerse\\Program.cs",
+              "RelativeToolTip": "UniVerse\\Program.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAAAFkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T19:59:46.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DTOs.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\UniVerse\\UniVerse\\Models\\DTOs.cs",
+              "RelativeDocumentMoniker": "UniVerse\\Models\\DTOs.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\UniVerse\\UniVerse\\Models\\DTOs.cs",
+              "RelativeToolTip": "UniVerse\\Models\\DTOs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T20:03:45.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AssessmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\UniVerse\\UniVerse\\Controllers\\AssessmentsController.cs",
+              "RelativeDocumentMoniker": "UniVerse\\Controllers\\AssessmentsController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\UniVerse\\UniVerse\\Controllers\\AssessmentsController.cs",
+              "RelativeToolTip": "UniVerse\\Controllers\\AssessmentsController.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAMEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T21:06:56.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SubmissionsController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\UniVerse\\UniVerse\\Controllers\\SubmissionsController.cs",
+              "RelativeDocumentMoniker": "UniVerse\\Controllers\\SubmissionsController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\UniVerse\\UniVerse\\Controllers\\SubmissionsController.cs",
+              "RelativeToolTip": "UniVerse\\Controllers\\SubmissionsController.cs",
+              "ViewState": "AgIAAKoAAAAAAAAAAAA8wMoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T21:04:44.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UniVerse.csproj",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\UniVerse\\UniVerse\\UniVerse.csproj",
+              "RelativeDocumentMoniker": "UniVerse\\UniVerse.csproj",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\UniVerse\\UniVerse\\UniVerse.csproj",
+              "RelativeToolTip": "UniVerse\\UniVerse.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-01T20:04:07.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ModulesController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\UniVerse\\UniVerse\\Controllers\\ModulesController.cs",
+              "RelativeDocumentMoniker": "UniVerse\\Controllers\\ModulesController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\UniVerse\\UniVerse\\Controllers\\ModulesController.cs",
+              "RelativeToolTip": "UniVerse\\Controllers\\ModulesController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAYwFAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T21:00:39.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CoursesController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\UniVerse\\UniVerse\\Controllers\\CoursesController.cs",
+              "RelativeDocumentMoniker": "UniVerse\\Controllers\\CoursesController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\UniVerse\\UniVerse\\Controllers\\CoursesController.cs",
+              "RelativeToolTip": "UniVerse\\Controllers\\CoursesController.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAAAMQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T20:59:56.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FilesController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\UniVerse\\UniVerse\\Controllers\\FilesController.cs",
+              "RelativeDocumentMoniker": "UniVerse\\Controllers\\FilesController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\UniVerse\\UniVerse\\Controllers\\FilesController.cs",
+              "RelativeToolTip": "UniVerse\\Controllers\\FilesController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAADgvxsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T20:10:25.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "GamificationController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\UniVerse\\UniVerse\\Controllers\\GamificationController.cs",
+              "RelativeDocumentMoniker": "UniVerse\\Controllers\\GamificationController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\UniVerse\\UniVerse\\Controllers\\GamificationController.cs",
+              "RelativeToolTip": "UniVerse\\Controllers\\GamificationController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAAPMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T09:48:36.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "GroupDiscussionsController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\UniVerse\\UniVerse\\Controllers\\GroupDiscussionsController.cs",
+              "RelativeDocumentMoniker": "UniVerse\\Controllers\\GroupDiscussionsController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\UniVerse\\UniVerse\\Controllers\\GroupDiscussionsController.cs",
+              "RelativeToolTip": "UniVerse\\Controllers\\GroupDiscussionsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T11:12:46.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SchedulesController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\UniVerse\\UniVerse\\Controllers\\SchedulesController.cs",
+              "RelativeDocumentMoniker": "UniVerse\\Controllers\\SchedulesController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\UniVerse\\UniVerse\\Controllers\\SchedulesController.cs",
+              "RelativeToolTip": "UniVerse\\Controllers\\SchedulesController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAADwvxwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T20:09:07.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "NotificationsController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\UniVerse\\UniVerse\\Controllers\\NotificationsController.cs",
+              "RelativeDocumentMoniker": "UniVerse\\Controllers\\NotificationsController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\UniVerse\\UniVerse\\Controllers\\NotificationsController.cs",
+              "RelativeToolTip": "UniVerse\\Controllers\\NotificationsController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAIwBwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T20:13:27.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20251006053534_AddUserSettings.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\UniVerse\\UniVerse\\Migrations\\20251006053534_AddUserSettings.cs",
+              "RelativeDocumentMoniker": "UniVerse\\Migrations\\20251006053534_AddUserSettings.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\UniVerse\\UniVerse\\Migrations\\20251006053534_AddUserSettings.cs",
+              "RelativeToolTip": "UniVerse\\Migrations\\20251006053534_AddUserSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T05:35:34.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ProgressController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\UniVerse\\UniVerse\\Controllers\\ProgressController.cs",
+              "RelativeDocumentMoniker": "UniVerse\\Controllers\\ProgressController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\UniVerse\\UniVerse\\Controllers\\ProgressController.cs",
+              "RelativeToolTip": "UniVerse\\Controllers\\ProgressController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAgwBMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T20:11:37.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CalendarController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\UniVerse\\UniVerse\\Controllers\\CalendarController.cs",
+              "RelativeDocumentMoniker": "UniVerse\\Controllers\\CalendarController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\UniVerse\\UniVerse\\Controllers\\CalendarController.cs",
+              "RelativeToolTip": "UniVerse\\Controllers\\CalendarController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T20:12:31.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20251004140649_UserCourses.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\UniVerse\\UniVerse\\Migrations\\20251004140649_UserCourses.cs",
+              "RelativeDocumentMoniker": "UniVerse\\Migrations\\20251004140649_UserCourses.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\UniVerse\\UniVerse\\Migrations\\20251004140649_UserCourses.cs",
+              "RelativeToolTip": "UniVerse\\Migrations\\20251004140649_UserCourses.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAASwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T14:06:49.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20251004132822_SeedExtendedData.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\UniVerse\\UniVerse\\Migrations\\20251004132822_SeedExtendedData.cs",
+              "RelativeDocumentMoniker": "UniVerse\\Migrations\\20251004132822_SeedExtendedData.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\UniVerse\\UniVerse\\Migrations\\20251004132822_SeedExtendedData.cs",
+              "RelativeToolTip": "UniVerse\\Migrations\\20251004132822_SeedExtendedData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T13:28:23.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20251001214905_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\UniVerse\\UniVerse\\Migrations\\20251001214905_InitialCreate.cs",
+              "RelativeDocumentMoniker": "UniVerse\\Migrations\\20251001214905_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\UniVerse\\UniVerse\\Migrations\\20251001214905_InitialCreate.cs",
+              "RelativeToolTip": "UniVerse\\Migrations\\20251001214905_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T21:49:06.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\UniVerse\\UniVerse\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "UniVerse\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\UniVerse\\UniVerse\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "UniVerse\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAK0BAAAAAAAAAAASwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T02:16:37.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20251004161208_CourseSeed.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\UniVerse\\UniVerse\\Migrations\\20251004161208_CourseSeed.cs",
+              "RelativeDocumentMoniker": "UniVerse\\Migrations\\20251004161208_CourseSeed.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\UniVerse\\UniVerse\\Migrations\\20251004161208_CourseSeed.cs",
+              "RelativeToolTip": "UniVerse\\Migrations\\20251004161208_CourseSeed.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T16:12:08.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "20251005020036_DataAddition.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\UniVerse\\UniVerse\\Migrations\\20251005020036_DataAddition.cs",
+              "RelativeDocumentMoniker": "UniVerse\\Migrations\\20251005020036_DataAddition.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\UniVerse\\UniVerse\\Migrations\\20251005020036_DataAddition.cs",
+              "RelativeToolTip": "UniVerse\\Migrations\\20251005020036_DataAddition.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T02:00:36.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "20251004161035_SeedingData.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\UniVerse\\UniVerse\\Migrations\\20251004161035_SeedingData.cs",
+              "RelativeDocumentMoniker": "UniVerse\\Migrations\\20251004161035_SeedingData.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\UniVerse\\UniVerse\\Migrations\\20251004161035_SeedingData.cs",
+              "RelativeToolTip": "UniVerse\\Migrations\\20251004161035_SeedingData.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T16:10:35.978Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

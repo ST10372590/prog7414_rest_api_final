@@ -1,0 +1,34 @@
+version: '3.8'
+
+services:
+  api:
+    build: .
+    container_name: universe_api
+    ports:
+      - "5000:5000"
+    depends_on:
+      - db
+    environment:
+      - ConnectionStrings__DefaultConnection=Host=localhost;Port=5432;Database=universe;Username=postgres;Password=03Alcessained11
+    networks:
+      - universe-network
+
+  db:
+    image: postgres:15
+    container_name: universe_db
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: 03Alcessained11
+      POSTGRES_DB: universe
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    networks:
+      - universe-network
+
+volumes:
+  postgres_data:
+
+networks:
+  universe-network:

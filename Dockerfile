@@ -1,9 +1,9 @@
 FROM mcr.microsoft.com/dotnet/sdk:9.0-preview AS build
 WORKDIR /app
 
-# Copy csproj and restore from Universe folder
-COPY Universe/*.csproj ./UniVerse/
-RUN dotnet restore UniVerse/UniVersecsproj
+# Copy csproj and restore from UniVerse folder
+COPY UniVerse/*.csproj ./UniVerse/
+RUN dotnet restore UniVerse/UniVerse.csproj
 
 # Copy everything else
 COPY . ./
